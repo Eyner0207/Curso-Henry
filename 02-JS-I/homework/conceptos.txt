@@ -1,0 +1,7 @@
+* VARIABLE: Una variable es una forma de bautizar una palabra para luego ser utilizada en otra parte del código.
+* STRING: un String es un concepto que se utiliza para referirse a una caracter alfanumerico, que fue "bautizado" para ser usado en el código.
+FUNCIONES
+* Argumentos:  Los Argumentos, son los valores con los que deseo que la función trabaje, y de los cuales espero un resultado.
+* return: Es una palabra que obliga a la consola a hacer la operación que se le especifique y devolver una respuesta.
+* IF: Es una palabra que se utiliza para que la consola tome como referencia la comparación, operación o datos que se ingresen luego de esta palabra, y producto de ello, arroje un resultado.
+* VALORES BOLEANOS: Los valores boleanos son un resultado que arroja la consola, luego de hacer una comparación, cabe resaltar que este resultado debe ser estricto entre falso y verdadero. 
